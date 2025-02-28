@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 main(){
+	//MAS ABAJO ESTA EL CODIGO PRINCIPAL
+	
 	/*
 	//numero es positivo(>0) o negativo(<0)
 	int num = 0;
